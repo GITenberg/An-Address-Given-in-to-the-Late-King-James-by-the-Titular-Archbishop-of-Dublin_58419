@@ -1,0 +1,24 @@
+_repo: An-Address-Given-in-to-the-Late-King-James-by-the-Titular-Archbishop-of-Dublin_58419
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Russell, Patrick
+    birthdate: 1629
+    deathdate: 1692
+    gutenberg_agent_id: '49943'
+    url: http://www.gutenberg.org/2009/agents/49943
+    wikipedia: https://en.wikipedia.org/wiki/Patrick_Russell_(bishop)
+description: ''
+gutenberg_issued: '2018-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James II, King of England, 1633-1701'
+- GITenberg
+title: An Address Given in to the Late King James by the Titular Archbishop of Dublin
+url: http://www.gutenberg.org/ebooks/58419
